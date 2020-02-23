@@ -1,5 +1,3 @@
-console.log('Client side js file is loaded')
-
 // If you target by class, enter item name directly
 // If you target by class, add .
 // If you target by id, add #
